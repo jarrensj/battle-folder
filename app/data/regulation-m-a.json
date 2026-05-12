@@ -1,0 +1,1038 @@
+[
+  {
+    "dex": 3,
+    "name": "Mega Venusaur"
+  },
+  {
+    "dex": 3,
+    "name": "Venusaur"
+  },
+  {
+    "dex": 6,
+    "name": "Charizard"
+  },
+  {
+    "dex": 6,
+    "name": "Mega Charizard X"
+  },
+  {
+    "dex": 6,
+    "name": "Mega Charizard Y"
+  },
+  {
+    "dex": 9,
+    "name": "Blastoise"
+  },
+  {
+    "dex": 9,
+    "name": "Mega Blastoise"
+  },
+  {
+    "dex": 15,
+    "name": "Beedrill"
+  },
+  {
+    "dex": 15,
+    "name": "Mega Beedrill"
+  },
+  {
+    "dex": 18,
+    "name": "Mega Pidgeot"
+  },
+  {
+    "dex": 18,
+    "name": "Pidgeot"
+  },
+  {
+    "dex": 24,
+    "name": "Arbok"
+  },
+  {
+    "dex": 25,
+    "name": "Pikachu"
+  },
+  {
+    "dex": 26,
+    "name": "Alolan Raichu"
+  },
+  {
+    "dex": 26,
+    "name": "Raichu"
+  },
+  {
+    "dex": 36,
+    "name": "Clefable"
+  },
+  {
+    "dex": 36,
+    "name": "Mega Clefable"
+  },
+  {
+    "dex": 38,
+    "name": "Alolan Ninetales"
+  },
+  {
+    "dex": 38,
+    "name": "Ninetales"
+  },
+  {
+    "dex": 59,
+    "name": "Arcanine"
+  },
+  {
+    "dex": 59,
+    "name": "Hisuian Arcanine"
+  },
+  {
+    "dex": 65,
+    "name": "Alakazam"
+  },
+  {
+    "dex": 65,
+    "name": "Mega Alakazam"
+  },
+  {
+    "dex": 68,
+    "name": "Machamp"
+  },
+  {
+    "dex": 71,
+    "name": "Mega Victreebel"
+  },
+  {
+    "dex": 71,
+    "name": "Victreebel"
+  },
+  {
+    "dex": 80,
+    "name": "Galarian Slowbro"
+  },
+  {
+    "dex": 80,
+    "name": "Mega Slowbro"
+  },
+  {
+    "dex": 80,
+    "name": "Slowbro"
+  },
+  {
+    "dex": 94,
+    "name": "Gengar"
+  },
+  {
+    "dex": 94,
+    "name": "Mega Gengar"
+  },
+  {
+    "dex": 115,
+    "name": "Kangaskhan"
+  },
+  {
+    "dex": 115,
+    "name": "Mega Kangaskhan"
+  },
+  {
+    "dex": 121,
+    "name": "Mega Starmie"
+  },
+  {
+    "dex": 121,
+    "name": "Starmie"
+  },
+  {
+    "dex": 127,
+    "name": "Mega Pinsir"
+  },
+  {
+    "dex": 127,
+    "name": "Pinsir"
+  },
+  {
+    "dex": 128,
+    "name": "Paldean Tauros"
+  },
+  {
+    "dex": 128,
+    "name": "Tauros"
+  },
+  {
+    "dex": 130,
+    "name": "Gyarados"
+  },
+  {
+    "dex": 130,
+    "name": "Mega Gyarados"
+  },
+  {
+    "dex": 132,
+    "name": "Ditto"
+  },
+  {
+    "dex": 134,
+    "name": "Vaporeon"
+  },
+  {
+    "dex": 135,
+    "name": "Jolteon"
+  },
+  {
+    "dex": 136,
+    "name": "Flareon"
+  },
+  {
+    "dex": 142,
+    "name": "Aerodactyl"
+  },
+  {
+    "dex": 142,
+    "name": "Mega Aerodactyl"
+  },
+  {
+    "dex": 143,
+    "name": "Snorlax"
+  },
+  {
+    "dex": 149,
+    "name": "Dragonite"
+  },
+  {
+    "dex": 149,
+    "name": "Mega Dragonite"
+  },
+  {
+    "dex": 154,
+    "name": "Mega Meganium"
+  },
+  {
+    "dex": 154,
+    "name": "Meganium"
+  },
+  {
+    "dex": 157,
+    "name": "Hisuian Typhlosion"
+  },
+  {
+    "dex": 157,
+    "name": "Typhlosion"
+  },
+  {
+    "dex": 160,
+    "name": "Feraligatr"
+  },
+  {
+    "dex": 160,
+    "name": "Mega Feraligatr"
+  },
+  {
+    "dex": 168,
+    "name": "Ariados"
+  },
+  {
+    "dex": 181,
+    "name": "Ampharos"
+  },
+  {
+    "dex": 181,
+    "name": "Mega Ampharos"
+  },
+  {
+    "dex": 184,
+    "name": "Azumarill"
+  },
+  {
+    "dex": 186,
+    "name": "Politoed"
+  },
+  {
+    "dex": 196,
+    "name": "Espeon"
+  },
+  {
+    "dex": 197,
+    "name": "Umbreon"
+  },
+  {
+    "dex": 199,
+    "name": "Galarian Slowking"
+  },
+  {
+    "dex": 199,
+    "name": "Slowking"
+  },
+  {
+    "dex": 205,
+    "name": "Forretress"
+  },
+  {
+    "dex": 208,
+    "name": "Mega Steelix"
+  },
+  {
+    "dex": 208,
+    "name": "Steelix"
+  },
+  {
+    "dex": 212,
+    "name": "Mega Scizor"
+  },
+  {
+    "dex": 212,
+    "name": "Scizor"
+  },
+  {
+    "dex": 214,
+    "name": "Heracross"
+  },
+  {
+    "dex": 214,
+    "name": "Mega Heracross"
+  },
+  {
+    "dex": 227,
+    "name": "Mega Skarmory"
+  },
+  {
+    "dex": 227,
+    "name": "Skarmory"
+  },
+  {
+    "dex": 229,
+    "name": "Houndoom"
+  },
+  {
+    "dex": 229,
+    "name": "Mega Houndoom"
+  },
+  {
+    "dex": 248,
+    "name": "Mega Tyranitar"
+  },
+  {
+    "dex": 248,
+    "name": "Tyranitar"
+  },
+  {
+    "dex": 279,
+    "name": "Pelipper"
+  },
+  {
+    "dex": 282,
+    "name": "Gardevoir"
+  },
+  {
+    "dex": 282,
+    "name": "Mega Gardevoir"
+  },
+  {
+    "dex": 302,
+    "name": "Mega Sableye"
+  },
+  {
+    "dex": 302,
+    "name": "Sableye"
+  },
+  {
+    "dex": 306,
+    "name": "Aggron"
+  },
+  {
+    "dex": 306,
+    "name": "Mega Aggron"
+  },
+  {
+    "dex": 308,
+    "name": "Medicham"
+  },
+  {
+    "dex": 308,
+    "name": "Mega Medicham"
+  },
+  {
+    "dex": 310,
+    "name": "Manectric"
+  },
+  {
+    "dex": 310,
+    "name": "Mega Manectric"
+  },
+  {
+    "dex": 319,
+    "name": "Mega Sharpedo"
+  },
+  {
+    "dex": 319,
+    "name": "Sharpedo"
+  },
+  {
+    "dex": 323,
+    "name": "Camerupt"
+  },
+  {
+    "dex": 323,
+    "name": "Mega Camerupt"
+  },
+  {
+    "dex": 324,
+    "name": "Torkoal"
+  },
+  {
+    "dex": 334,
+    "name": "Altaria"
+  },
+  {
+    "dex": 334,
+    "name": "Mega Altaria"
+  },
+  {
+    "dex": 350,
+    "name": "Milotic"
+  },
+  {
+    "dex": 351,
+    "name": "Castform"
+  },
+  {
+    "dex": 354,
+    "name": "Banette"
+  },
+  {
+    "dex": 354,
+    "name": "Mega Banette"
+  },
+  {
+    "dex": 358,
+    "name": "Chimecho"
+  },
+  {
+    "dex": 358,
+    "name": "Mega Chimecho"
+  },
+  {
+    "dex": 359,
+    "name": "Absol"
+  },
+  {
+    "dex": 359,
+    "name": "Mega Absol"
+  },
+  {
+    "dex": 362,
+    "name": "Glalie"
+  },
+  {
+    "dex": 362,
+    "name": "Mega Glalie"
+  },
+  {
+    "dex": 389,
+    "name": "Torterra"
+  },
+  {
+    "dex": 392,
+    "name": "Infernape"
+  },
+  {
+    "dex": 395,
+    "name": "Empoleon"
+  },
+  {
+    "dex": 405,
+    "name": "Luxray"
+  },
+  {
+    "dex": 407,
+    "name": "Roserade"
+  },
+  {
+    "dex": 409,
+    "name": "Rampardos"
+  },
+  {
+    "dex": 411,
+    "name": "Bastiodon"
+  },
+  {
+    "dex": 428,
+    "name": "Lopunny"
+  },
+  {
+    "dex": 428,
+    "name": "Mega Lopunny"
+  },
+  {
+    "dex": 442,
+    "name": "Spiritomb"
+  },
+  {
+    "dex": 445,
+    "name": "Garchomp"
+  },
+  {
+    "dex": 445,
+    "name": "Mega Garchomp"
+  },
+  {
+    "dex": 448,
+    "name": "Lucario"
+  },
+  {
+    "dex": 448,
+    "name": "Mega Lucario"
+  },
+  {
+    "dex": 450,
+    "name": "Hippowdon"
+  },
+  {
+    "dex": 454,
+    "name": "Toxicroak"
+  },
+  {
+    "dex": 460,
+    "name": "Abomasnow"
+  },
+  {
+    "dex": 460,
+    "name": "Mega Abomasnow"
+  },
+  {
+    "dex": 461,
+    "name": "Weavile"
+  },
+  {
+    "dex": 464,
+    "name": "Rhyperior"
+  },
+  {
+    "dex": 470,
+    "name": "Leafeon"
+  },
+  {
+    "dex": 471,
+    "name": "Glaceon"
+  },
+  {
+    "dex": 472,
+    "name": "Gliscor"
+  },
+  {
+    "dex": 473,
+    "name": "Mamoswine"
+  },
+  {
+    "dex": 475,
+    "name": "Gallade"
+  },
+  {
+    "dex": 475,
+    "name": "Mega Gallade"
+  },
+  {
+    "dex": 478,
+    "name": "Froslass"
+  },
+  {
+    "dex": 478,
+    "name": "Mega Froslass"
+  },
+  {
+    "dex": 479,
+    "name": "Rotom"
+  },
+  {
+    "dex": 497,
+    "name": "Serperior"
+  },
+  {
+    "dex": 500,
+    "name": "Emboar"
+  },
+  {
+    "dex": 500,
+    "name": "Mega Emboar"
+  },
+  {
+    "dex": 503,
+    "name": "Hisuian Samurott"
+  },
+  {
+    "dex": 503,
+    "name": "Samurott"
+  },
+  {
+    "dex": 504,
+    "name": "Patrat"
+  },
+  {
+    "dex": 510,
+    "name": "Liepard"
+  },
+  {
+    "dex": 512,
+    "name": "Simisage"
+  },
+  {
+    "dex": 514,
+    "name": "Simisear"
+  },
+  {
+    "dex": 516,
+    "name": "Simipour"
+  },
+  {
+    "dex": 530,
+    "name": "Excadrill"
+  },
+  {
+    "dex": 530,
+    "name": "Mega Excadrill"
+  },
+  {
+    "dex": 531,
+    "name": "Audino"
+  },
+  {
+    "dex": 531,
+    "name": "Mega Audino"
+  },
+  {
+    "dex": 534,
+    "name": "Conkeldurr"
+  },
+  {
+    "dex": 547,
+    "name": "Whimsicott"
+  },
+  {
+    "dex": 553,
+    "name": "Krookodile"
+  },
+  {
+    "dex": 563,
+    "name": "Cofagrigus"
+  },
+  {
+    "dex": 569,
+    "name": "Garbodor"
+  },
+  {
+    "dex": 571,
+    "name": "Hisuian Zoroark"
+  },
+  {
+    "dex": 571,
+    "name": "Zoroark"
+  },
+  {
+    "dex": 579,
+    "name": "Reuniclus"
+  },
+  {
+    "dex": 584,
+    "name": "Vanilluxe"
+  },
+  {
+    "dex": 587,
+    "name": "Emolga"
+  },
+  {
+    "dex": 609,
+    "name": "Chandelure"
+  },
+  {
+    "dex": 609,
+    "name": "Mega Chandelure"
+  },
+  {
+    "dex": 614,
+    "name": "Beartic"
+  },
+  {
+    "dex": 618,
+    "name": "Galarian Stunfisk"
+  },
+  {
+    "dex": 618,
+    "name": "Stunfisk"
+  },
+  {
+    "dex": 623,
+    "name": "Golurk"
+  },
+  {
+    "dex": 623,
+    "name": "Mega Golurk"
+  },
+  {
+    "dex": 635,
+    "name": "Hydreigon"
+  },
+  {
+    "dex": 637,
+    "name": "Volcarona"
+  },
+  {
+    "dex": 652,
+    "name": "Chesnaught"
+  },
+  {
+    "dex": 652,
+    "name": "Mega Chesnaught"
+  },
+  {
+    "dex": 655,
+    "name": "Delphox"
+  },
+  {
+    "dex": 655,
+    "name": "Mega Delphox"
+  },
+  {
+    "dex": 658,
+    "name": "Greninja"
+  },
+  {
+    "dex": 658,
+    "name": "Mega Greninja"
+  },
+  {
+    "dex": 660,
+    "name": "Diggersby"
+  },
+  {
+    "dex": 663,
+    "name": "Talonflame"
+  },
+  {
+    "dex": 666,
+    "name": "Vivillon"
+  },
+  {
+    "dex": 670,
+    "name": "Eternal Floette"
+  },
+  {
+    "dex": 670,
+    "name": "Floette"
+  },
+  {
+    "dex": 670,
+    "name": "Mega Floette"
+  },
+  {
+    "dex": 671,
+    "name": "Florges"
+  },
+  {
+    "dex": 675,
+    "name": "Pangoro"
+  },
+  {
+    "dex": 676,
+    "name": "Furfrou"
+  },
+  {
+    "dex": 678,
+    "name": "Mega Meowstic"
+  },
+  {
+    "dex": 678,
+    "name": "Meowstic"
+  },
+  {
+    "dex": 681,
+    "name": "Aegislash"
+  },
+  {
+    "dex": 683,
+    "name": "Aromatisse"
+  },
+  {
+    "dex": 685,
+    "name": "Slurpuff"
+  },
+  {
+    "dex": 693,
+    "name": "Clawitzer"
+  },
+  {
+    "dex": 695,
+    "name": "Heliolisk"
+  },
+  {
+    "dex": 697,
+    "name": "Tyrantrum"
+  },
+  {
+    "dex": 699,
+    "name": "Aurorus"
+  },
+  {
+    "dex": 700,
+    "name": "Sylveon"
+  },
+  {
+    "dex": 701,
+    "name": "Hawlucha"
+  },
+  {
+    "dex": 701,
+    "name": "Mega Hawlucha"
+  },
+  {
+    "dex": 702,
+    "name": "Dedenne"
+  },
+  {
+    "dex": 706,
+    "name": "Goodra"
+  },
+  {
+    "dex": 706,
+    "name": "Hisuian Goodra"
+  },
+  {
+    "dex": 707,
+    "name": "Klefki"
+  },
+  {
+    "dex": 709,
+    "name": "Trevenant"
+  },
+  {
+    "dex": 711,
+    "name": "Gourgeist"
+  },
+  {
+    "dex": 713,
+    "name": "Avalugg"
+  },
+  {
+    "dex": 713,
+    "name": "Hisuian Avalugg"
+  },
+  {
+    "dex": 715,
+    "name": "Noivern"
+  },
+  {
+    "dex": 724,
+    "name": "Decidueye"
+  },
+  {
+    "dex": 724,
+    "name": "Hisuian Decidueye"
+  },
+  {
+    "dex": 727,
+    "name": "Incineroar"
+  },
+  {
+    "dex": 730,
+    "name": "Primarina"
+  },
+  {
+    "dex": 733,
+    "name": "Toucannon"
+  },
+  {
+    "dex": 740,
+    "name": "Crabominable"
+  },
+  {
+    "dex": 740,
+    "name": "Mega Crabominable"
+  },
+  {
+    "dex": 745,
+    "name": "Lycanroc"
+  },
+  {
+    "dex": 748,
+    "name": "Toxapex"
+  },
+  {
+    "dex": 750,
+    "name": "Mudsdale"
+  },
+  {
+    "dex": 752,
+    "name": "Araquanid"
+  },
+  {
+    "dex": 758,
+    "name": "Salazzle"
+  },
+  {
+    "dex": 763,
+    "name": "Tsareena"
+  },
+  {
+    "dex": 765,
+    "name": "Oranguru"
+  },
+  {
+    "dex": 766,
+    "name": "Passimian"
+  },
+  {
+    "dex": 778,
+    "name": "Mimikyu"
+  },
+  {
+    "dex": 780,
+    "name": "Drampa"
+  },
+  {
+    "dex": 780,
+    "name": "Mega Drampa"
+  },
+  {
+    "dex": 784,
+    "name": "Kommo-o"
+  },
+  {
+    "dex": 823,
+    "name": "Corviknight"
+  },
+  {
+    "dex": 841,
+    "name": "Flapple"
+  },
+  {
+    "dex": 842,
+    "name": "Appletun"
+  },
+  {
+    "dex": 844,
+    "name": "Sandaconda"
+  },
+  {
+    "dex": 855,
+    "name": "Polteageist"
+  },
+  {
+    "dex": 858,
+    "name": "Hatterene"
+  },
+  {
+    "dex": 866,
+    "name": "Runerigus"
+  },
+  {
+    "dex": 867,
+    "name": "Runerigus"
+  },
+  {
+    "dex": 869,
+    "name": "Alcremie"
+  },
+  {
+    "dex": 877,
+    "name": "Morpeko"
+  },
+  {
+    "dex": 887,
+    "name": "Dragapult"
+  },
+  {
+    "dex": 899,
+    "name": "Wyrdeer"
+  },
+  {
+    "dex": 900,
+    "name": "Kleavor"
+  },
+  {
+    "dex": 902,
+    "name": "Basculegion"
+  },
+  {
+    "dex": 903,
+    "name": "Sneasler"
+  },
+  {
+    "dex": 908,
+    "name": "Meowscarada"
+  },
+  {
+    "dex": 911,
+    "name": "Skeledirge"
+  },
+  {
+    "dex": 914,
+    "name": "Quaquaval"
+  },
+  {
+    "dex": 925,
+    "name": "Maushold"
+  },
+  {
+    "dex": 934,
+    "name": "Garganacl"
+  },
+  {
+    "dex": 936,
+    "name": "Armarouge"
+  },
+  {
+    "dex": 937,
+    "name": "Ceruledge"
+  },
+  {
+    "dex": 939,
+    "name": "Bellibolt"
+  },
+  {
+    "dex": 952,
+    "name": "Mega Scovillain"
+  },
+  {
+    "dex": 952,
+    "name": "Scovillain"
+  },
+  {
+    "dex": 956,
+    "name": "Espathra"
+  },
+  {
+    "dex": 959,
+    "name": "Tinkaton"
+  },
+  {
+    "dex": 964,
+    "name": "Palafin"
+  },
+  {
+    "dex": 968,
+    "name": "Orthworm"
+  },
+  {
+    "dex": 970,
+    "name": "Glimmora"
+  },
+  {
+    "dex": 970,
+    "name": "Mega Glimmora"
+  },
+  {
+    "dex": 981,
+    "name": "Farigiraf"
+  },
+  {
+    "dex": 983,
+    "name": "Kingambit"
+  },
+  {
+    "dex": 1013,
+    "name": "Sinistcha"
+  },
+  {
+    "dex": 1018,
+    "name": "Archaludon"
+  },
+  {
+    "dex": 1019,
+    "name": "Hydrapple"
+  }
+]
