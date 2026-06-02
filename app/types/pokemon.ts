@@ -27,6 +27,11 @@ export type StatSpread = {
   speed: number;
 };
 
+export type Ability = {
+  name: string;
+  description: string;
+};
+
 export type PokemonSpecies = {
   dex: number;
   name: string;
