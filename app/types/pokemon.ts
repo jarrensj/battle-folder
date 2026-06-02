@@ -36,3 +36,8 @@ export type PokemonSpecies = {
   abilities: string[];
   spriteUrl: string;
 };
+
+export type RegulationEntry = {
+  dex: number;
+  name: string;
+};
